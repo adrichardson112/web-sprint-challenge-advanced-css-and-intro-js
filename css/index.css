@@ -139,9 +139,9 @@ button:hover{
     .artists-container{
         display: flex;
         flex-direction: column;
-        justify-content: space-evenly;
-        width: 20%;
+        width: 80%;
         margin: auto;
+        margin-right: 10px;
     }
 
     .artist{
